@@ -11,7 +11,7 @@
 	--color-title: rgba(255, 0, 112, 1);
 	--color-rectengle: rgba(255, 0, 112, 1);
 	--font-family: IBM Plex mono;
-	--background-image-black: url(../images/cover-image-dark.png);
+	--background-image: url(../images/cover-image-dark.png);
 	--background-color-fallback: #000028;
 }
 
@@ -23,7 +23,7 @@
 		--color-title: rgba(255, 0, 112, 1);
 		--color-rectengle: rgba(255, 0, 112, 1);
 		--font-family: IBM Plex mono;
-		--background-image-black: url(../images/cover-image-dark.png);
+		--background-image: url(../images/cover-image-dark.png);
 		--background-color-fallback: #000028;
 	}
 }
