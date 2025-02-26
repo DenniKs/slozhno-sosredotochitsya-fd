@@ -131,6 +131,7 @@
 
 .header__title {
 	text-shadow: 4px 4px 0 var(--accent-color);
+	justify-self: left;
 }
 
 .header__subtitle {
