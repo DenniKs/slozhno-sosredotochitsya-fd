@@ -226,6 +226,10 @@
 	gap: 10px;
 }
 
+.lowering__list {
+	gap: 20px;
+}
+
 .lowering__item-title {
 	color: var(--color-content);
 }
