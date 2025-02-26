@@ -129,6 +129,10 @@
 	align-self: center;
 }
 
+.header__title {
+	text-shadow: 4px 4px 0 var(--accent-color);
+}
+
 .header__subtitle {
 	line-height: 23.4px;
 	color: var(--color-content);
